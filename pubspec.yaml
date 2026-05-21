@@ -11,6 +11,18 @@ topics:
   - dark-mode
   - glassmorphism
 
+screenshots:
+  - description: 'Liquor Glass Nav Bar at rest on a dark, content-rich screen.'
+    path: screenshots/hero.png
+  - description: 'Tap a tab and the water-drop pill snaps over with a chromatic edge fringe.'
+    path: screenshots/demo_1.gif
+  - description: 'Drag the pill horizontally — it squashes and stretches like a real drop.'
+    path: screenshots/demo_2.gif
+  - description: 'Icons under the pill magnify like a lens; a rainbow streak sweeps across item boundaries.'
+    path: screenshots/demo_3.gif
+  - description: 'Full feature showcase: drag, magnification, chromatic aberration, trailing droplet.'
+    path: screenshots/demo_4.gif
+
 environment:
   sdk: ^3.6.0
   flutter: ">=3.27.0"
