@@ -1,0 +1,27 @@
+name: liquor_glass_nav_bar
+description: A customizable dark liquid glass bottom navigation bar for Flutter — a sleek, frosted-glass alternative perfectly tailored for dark-themed apps.
+version: 0.2.0
+repository: https://github.com/danielgyorgy/liquor_glass_nav_bar
+issue_tracker: https://github.com/danielgyorgy/liquor_glass_nav_bar/issues
+
+topics:
+  - navigation
+  - ui
+  - bottom-navigation
+  - dark-mode
+  - glassmorphism
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
