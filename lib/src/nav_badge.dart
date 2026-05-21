@@ -11,8 +11,13 @@ class LiquorGlassBadge extends StatelessWidget {
     this.textColor = Colors.white,
   });
 
+  /// Text shown inside the badge. Pass an empty string to render a dot only.
   final String text;
+
+  /// Background color of the badge. Defaults to a system-red.
   final Color? color;
+
+  /// Color used for [text]. Defaults to white.
   final Color textColor;
 
   @override

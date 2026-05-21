@@ -20,7 +20,7 @@ passes over magnify subtly, as if seen through the lens of the drop.
 
 ```yaml
 dependencies:
-  liquor_glass_nav_bar: ^0.2.0
+  liquor_glass_nav_bar: ^0.3.0
 ```
 
 ## Usage
